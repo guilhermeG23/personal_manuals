@@ -9,5 +9,7 @@ ___
 * [Markdown;](https://github.com/guilhermeG23/personal_manuals/tree/main/Markdown)
 * [PFCTL;](https://github.com/guilhermeG23/personal_manuals/tree/main/PFCTL)
 * [PHP_PDO;](https://github.com/guilhermeG23/personal_manuals/tree/main/PHP_PDO)
+* [REDIS;](https://github.com/guilhermeG23/personal_manuals/tree/main/REDIS)
+* [REGEX;](https://github.com/guilhermeG23/personal_manuals/tree/main/REGEX)
 * [SQLITE;](https://github.com/guilhermeG23/personal_manuals/tree/main/SQLITE)
 * [Suricata;](https://github.com/guilhermeG23/personal_manuals/tree/main/Suricata)
