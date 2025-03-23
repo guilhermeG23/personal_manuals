@@ -12,4 +12,5 @@ ___
 * [REDIS;](https://github.com/guilhermeG23/personal_manuals/tree/main/REDIS)
 * [REGEX;](https://github.com/guilhermeG23/personal_manuals/tree/main/REGEX)
 * [SQLITE;](https://github.com/guilhermeG23/personal_manuals/tree/main/SQLITE)
+* [SonarQube;](https://github.com/guilhermeG23/personal_manuals/tree/main/sonarqube)
 * [Suricata;](https://github.com/guilhermeG23/personal_manuals/tree/main/Suricata)
